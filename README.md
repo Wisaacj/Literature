@@ -8,6 +8,10 @@
 - [ ] John D. Clark, 'Ignition!'
 - [x] E. F. Schumacher, 'A Guide for the Perplexed' 
 - [ ] Michael Lewis, 'The Big Short'
+- [x] John Cassidy, 'How Markets Fail'
+- [x] Steven D. Levitt & Stephen J. Dubner, 'SuperFreakonomics'
+- [ ] Harper Lee, 'To Kill a Mockingbird'
+- [ ] Margaret Atwood, 'The Handmaid's Tale'
 
 ## [Amit's](https://www.signalcapital.com/team) Recommendations
 
