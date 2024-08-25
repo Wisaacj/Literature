@@ -1,11 +1,13 @@
 # Literature
 
+- [ ] Nick Bostrom, 'Superintelligence'
+- [ ] Douglas Hofstadter, 'Godel, Escher, Bach: an Eternal Golden Braid'
 - [ ] Adam Smith, 'The Wealth of Nations'
 - [x] Paul Theroux, 'The London Embassy'
 - [x] Michael Lewis, 'Flash Boys'
 - [ ] John D. Clark, 'Ignition!'
-- [ ] Michael Lewis, 'The Big Short'
 - [x] E. F. Schumacher, 'A Guide for the Perplexed' 
+- [ ] Michael Lewis, 'The Big Short'
 
 ## [Amit's](https://www.signalcapital.com/team) Recommendations
 
